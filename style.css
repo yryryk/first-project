@@ -1,0 +1,15 @@
+.page {
+    font-family: 'Cormorant Garamond';
+  }
+
+.header{
+    height: 95px;
+}
+
+.my-name{
+    font-size: 50px;
+}
+
+.my-name_in_header{
+ text-decoration: solid;
+}
